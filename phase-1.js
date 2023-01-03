@@ -8,8 +8,6 @@ function addNums(n) {
   return sum;
 }
 
-console.log(addNums(5))
-
 // Adds up values of addNums(1) through addNums(n)
 function addManyNums(n) {
   let sum = 0;
@@ -20,7 +18,6 @@ function addManyNums(n) {
   return sum;
 }
 
-console.log(addManyNums(3));
 
 
 
